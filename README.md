@@ -1,2 +1,2 @@
-# ilinykh-itpro
-ilinykh main repository
+# ilinykh-it
+ilinykh it project main repository
